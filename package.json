@@ -18,5 +18,9 @@
   "homepage": "https://github.com/bobyuwono/jenkins-pipeline#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2",
+    "supertest": "^6.2.2"
   }
 }
